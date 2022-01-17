@@ -192,21 +192,21 @@
 }
 
 .feynman__title { 
-  line-height: 1.15; 
-  font-size: 120px; 
-  width: 648px; 
-  margin: auto; 
-  padding-top: 100px; 
-  text-align: center; 
-} 
+  line-height: 1.15;
+  font-size: 120px;
+  width: 648px;
+  margin: auto;
+  padding-top: 100px;
+  text-align: center;
+}
 
 .feynman__subtitle { 
-  line-height: 51px; 
-  font-size: 36px; 
-  font-weight: normal; 
-  margin: 70px auto 0; 
-  text-align: center; 
-} 
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  margin: 70px auto 0;
+  text-align: center;
+}
 
 .feynman__link {
   line-height: 51px;
@@ -223,15 +223,6 @@
 .feynman__link::after {
   content: "\2192";
 }
-
-/*.feynman__illustration {
-  width: 867px;
-  height: 637px;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  z-index: 0;
-}*/
 
 .kaufman {
   background-color: #1f1f1f;
