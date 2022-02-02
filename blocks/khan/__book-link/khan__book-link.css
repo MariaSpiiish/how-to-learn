@@ -1,0 +1,11 @@
+.khan__book-link {
+    line-height: 42px;
+    font-weight: normal;
+    font-size: 30px;
+    text-decoration: none;
+    color:#2f80ed;
+}
+
+.khan__book-link::after {
+    content: "\2192";
+  }
