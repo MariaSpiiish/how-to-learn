@@ -13,3 +13,7 @@
   ## Demo
 
   [Ссылка на страницу на GitPages](https://mariaspiiish.github.io/how-to-learn/)
+  
+  ## Статус
+  
+  Завершен
